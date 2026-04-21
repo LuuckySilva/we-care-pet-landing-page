@@ -35,11 +35,12 @@ O projeto simula a página inicial de uma marca ou serviço voltado ao cuidado d
 
 ## Preview
 
-Adicione aqui uma captura de tela real do projeto após o deploy.
+<img width="1918" height="976" alt="image" src="https://github.com/user-attachments/assets/0d0f0fe8-2c41-4109-bdae-b437d838567d" />
+
 
 ## Deploy
 
-[Ver projeto online](COLE_O_LINK_AQUI)
+[Ver projeto online](https://luuckysilva.github.io/we-care-pet-landing-page/)
 
 ## Contato
 
