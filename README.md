@@ -1,57 +1,47 @@
-# 🐶 Projeto: Landing Page - We Care (About Your Pet)
+# We Care Pet Landing Page
 
-Bem-vindo(a)!
+Landing page responsiva desenvolvida com HTML5 e CSS3, com foco em apresentação visual, hierarquia de conteúdo e adaptação para diferentes tamanhos de tela.
 
-Este projeto é uma **Landing Page responsiva** desenvolvida utilizando **HTML5** e **CSS3**.  
-Foi criado para praticar a criação de layouts modernos, focando na experiência do usuário em diferentes dispositivos (desktop, tablet e mobile).
+## Sobre o projeto
 
-## 🛠 Tecnologias utilizadas
+O projeto simula a página inicial de uma marca ou serviço voltado ao cuidado de pets. A interface foi construída com uma proposta moderna e objetiva, destacando navegação simples, ilustração temática e uma chamada principal para ação.
 
-- **HTML5**  
-- **CSS3**
+## Tecnologias utilizadas
 
-## 📄 Descrição do projeto
+- HTML5
+- CSS3
 
-O projeto é uma página inicial de um serviço dedicado ao cuidado de pets, contendo:
+## Funcionalidades
 
-- **Menu de navegação** com links para Home, About, Product, Service e Contact
-- **Botão de login** com destaque visual
-- **Imagem ilustrativa** temática para reforçar o conteúdo
-- **Texto institucional** apresentando o propósito da empresa
-- **Design responsivo**, se adaptando a diferentes tamanhos de tela
+- Estrutura semântica de página
+- Menu de navegação no desktop
+- Botões de destaque para ação
+- Layout responsivo com media queries
+- Adaptação para dispositivos móveis
 
-## 📱 Responsividade
+## Objetivos do projeto
 
-Esta página foi desenvolvida com técnicas de **responsividade**, utilizando **media queries** para garantir uma boa experiência em:
+- Praticar construção de landing pages
+- Reforçar conceitos de responsividade
+- Trabalhar hierarquia visual e espaçamento
+- Evoluir na organização de interfaces front-end
 
-- Computadores
-- Tablets
-- Smartphones
+## Melhorias futuras
 
-## 🎯 Objetivo do projeto
+- Adicionar interações com JavaScript
+- Criar versão mobile com menu responsivo
+- Melhorar acessibilidade e semântica
+- Aplicar efeitos visuais mais refinados
 
-- Praticar a criação de layouts responsivos
-- Melhorar habilidades de estilização usando CSS
-- Aprender organização semântica de conteúdo
-- Focar na usabilidade e adaptação em múltiplos dispositivos
+## Preview
 
+Adicione aqui uma captura de tela real do projeto após o deploy.
 
+## Deploy
 
-## 📚 Aprendizados até aqui
+[Ver projeto online](COLE_O_LINK_AQUI)
 
-Durante o desenvolvimento, pratiquei:
-
-- Estruturação de páginas responsivas usando HTML e CSS
-- Utilização de **media queries** para adaptação do layout
-- Técnicas de espaçamento, alinhamento e hierarquia visual
-
-## 🧠 Melhorias futuras
-
-- Adicionar pequenos efeitos de animação (hover, transições)
-- Melhorar a acessibilidade (uso de aria-labels e contrastes)
-- Otimizar performance para carregamento mais rápido
-
-## 📬 Contato
+## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/lucky-silva/)
 - E-mail: lukasantonyo@gmail.com

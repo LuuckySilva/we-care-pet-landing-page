@@ -5,13 +5,24 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: #111111;
+}
+
+.link-header,
+.button-header,
+.button-main {
+  transition: 0.3s ease;
+}
+
 header {
-  margin: 44px 0 144px 76px
+  margin: 44px 0 144px 76px;
 }
 
 .logo-img {
   width: 568px;
-  height: 500px;
+  max-width: 100%;
+  height: auto;
   margin-left: 125px;
   display: inline-block;
 }
@@ -23,6 +34,7 @@ header {
   color: #989d9c;
   cursor: pointer;
   margin-right: 23px;
+  text-decoration: none;
 }
 
 .button-header {
@@ -41,7 +53,7 @@ header {
 section {
   display: inline-block;
   margin-left: 86px;
-
+  vertical-align: top;
 }
 
 h1 {
@@ -63,7 +75,8 @@ p {
   font-size: 24px;
   line-height: 29px;
   color: #848484;
-  width: 515px;
+  max-width: 515px;
+  width: 100%;
   margin-top: 32px;
   margin-bottom: 65px;
 }
@@ -75,47 +88,47 @@ p {
   height: 64px;
   border: none;
   cursor: pointer;
-  filter: drop-shadow(0px 4px 4px 0px #00000040);
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
   font-weight: 700;
   font-size: 28px;
   line-height: 34px;
   color: #000000;
-
 }
 
+.link-header:hover,
+.button-header:hover,
+.button-main:hover {
+  opacity: 0.8;
+}
 
 @media screen and (max-width: 790px) {
   header {
     display: none;
   }
 
-
   .logo-img {
-    margin-top: 200px;
-    width: 354px;
-    height: 317px;
-    margin-left: 22px;
+    display: block;
+    width: 90%;
+    max-width: 354px;
+    height: auto;
+    margin: 80px auto 0 auto;
   }
 
   section {
-    margin-left: 35px;
-    margin-top: 30px;
+    margin: 30px auto 0 auto;
     text-align: center;
-  
+    width: 90%;
   }
 
   h1 {
     font-size: 70px;
     line-height: 100%;
-    
   }
 
   h2 {
     font-size: 35px;
     line-height: 100%;
-    
   }
-
 
   p {
     display: none;
@@ -127,7 +140,6 @@ p {
     border-radius: 70px;
     font-size: 40px;
     line-height: 100%;
-margin-top: 20px;
+    margin-top: 20px;
   }
-
 }
