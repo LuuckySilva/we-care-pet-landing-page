@@ -44,5 +44,5 @@ O projeto simula a página inicial de uma marca ou serviço voltado ao cuidado d
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/lucky-silva/)
+- [LinkedIn](www.linkedin.com/in/olucas-silvaa)
 - E-mail: lukasantonyo@gmail.com
