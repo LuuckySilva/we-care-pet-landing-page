@@ -1,48 +1,71 @@
-# We Care Pet Landing Page
+# We Care Pet — Landing Page
 
-Landing page responsiva desenvolvida com HTML5 e CSS3, com foco em apresentação visual, hierarquia de conteúdo e adaptação para diferentes tamanhos de tela.
+> Página institucional para marca de cuidados com pets, com identidade visual acolhedora, layout limpo e responsividade total em HTML5 e CSS3 puro.
 
-## Sobre o projeto
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-O projeto simula a página inicial de uma marca ou serviço voltado ao cuidado de pets. A interface foi construída com uma proposta moderna e objetiva, destacando navegação simples, ilustração temática e uma chamada principal para ação.
+🔗 **[Ver projeto online](https://luuckysilva.github.io/we-care-pet-landing-page/)**
 
-## Tecnologias utilizadas
+---
 
-- HTML5
-- CSS3
+## 📋 Sobre o projeto
 
-## Funcionalidades
+Simulação da homepage de uma marca de cuidados pet. O foco foi construir uma interface moderna e objetiva — com navegação clara, hierarquia visual bem definida e uma proposta visual que transmite confiança e cuidado, sem depender de JavaScript.
 
-- Estrutura semântica de página
-- Menu de navegação no desktop
-- Botões de destaque para ação
+---
+
+## ✦ Funcionalidades
+
 - Layout responsivo com media queries
-- Adaptação para dispositivos móveis
+- Estrutura semântica em HTML5
+- Menu de navegação para desktop
+- Hero section com CTA destacado
+- Hierarquia tipográfica e espaçamento refinados
+- Adaptação fluida para mobile
 
-## Objetivos do projeto
+---
 
-- Praticar construção de landing pages
-- Reforçar conceitos de responsividade
-- Trabalhar hierarquia visual e espaçamento
-- Evoluir na organização de interfaces front-end
+## 🖼️ Preview
 
-## Melhorias futuras
+![Preview do projeto](assets/image.png)
 
-- Adicionar interações com JavaScript
-- Criar versão mobile com menu responsivo
-- Melhorar acessibilidade e semântica
-- Aplicar efeitos visuais mais refinados
+> Caso a imagem não carregue, [acesse o deploy](https://luuckysilva.github.io/we-care-pet-landing-page/) diretamente.
 
-## Preview
+---
 
-<img width="1918" height="976" alt="image" src="https://github.com/user-attachments/assets/0d0f0fe8-2c41-4109-bdae-b437d838567d" />
+## 📁 Estrutura do projeto
 
+```
+we-care-pet-landing-page/
+├── assets/        # Imagens e recursos visuais
+├── index.html     # Estrutura da página
+└── styles.css     # Estilização completa
+```
 
-## Deploy
+---
 
-[Ver projeto online](https://luuckysilva.github.io/we-care-pet-landing-page/)
+## 🎯 Objetivos de aprendizado
 
-## Contato
+- Praticar landing pages sem dependência de frameworks
+- Aprofundar responsividade com CSS puro
+- Trabalhar identidade visual e paleta de cores temática
+- Fortalecer organização e semântica do HTML
 
-- [LinkedIn] (www.linkedin.com/in/olucas-silvaa)
-- E-mail: lukasantonyo@gmail.com
+---
+
+## 🚀 Melhorias futuras
+
+- [ ] Adicionar menu mobile com toggle em JavaScript
+- [ ] Criar animações de entrada nas seções
+- [ ] Melhorar acessibilidade (ARIA labels, foco por teclado)
+- [ ] Aplicar efeitos hover mais refinados
+
+---
+
+## 👨‍💻 Autor
+
+**Lucas Silva**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-403412a4/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LuuckySilva)
